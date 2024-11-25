@@ -15,7 +15,7 @@ IP Tracker is a Python-based application that allows you to track and display de
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ip-tracker.git
+   git clone https://github.com/nanashi0x1/ip-tracker.git
 Navigate to the project directory:
 
 bash

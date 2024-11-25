@@ -1,0 +1,8 @@
+tkinter
+requests
+folium
+sqlite3
+webbrowser
+json
+re
+tempfile
